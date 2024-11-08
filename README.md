@@ -66,10 +66,10 @@ When approaching this project, consider the following design suggestions:
 To install and use `ft_printf` in your project, follow these steps:
 
 ```
-git clone https://github.com/HoudaChairi/ft_printf.git
+git clone https://github.com/HoudaChairi/42_ft_printf.git
 ```
 ```
-cd ft_printf
+cd 42_ft_printf
 ```
 ```
 make
