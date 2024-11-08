@@ -1,12 +1,6 @@
 ## Ft_printf
 The ft_printf project is a common assignment at 42 coding schools, where you are tasked with creating a simplified version of the C standard library function `printf()`. The goal is to improve your programming skills, particularly in areas like string manipulation, argument parsing, and format specifier handling.
 
-## Table of Contents
-- [Requirements](#Requirements)
-- [Design Suggestions](#DesignSuggestions)
-- [Approach the Project Systematically](#ApproachtheProjectSystematically)
-
-
 ## Requirements
 The main requirements for the ft_printf project typically include:
 
@@ -32,4 +26,3 @@ When approaching this project, consider the following design suggestions:
 - Break down the project requirements into smaller, manageable tasks.
 - Tackle each requirement one at a time, starting with the most basic functionality.
 - Implement and test each component thoroughly before moving on to the next.
-
