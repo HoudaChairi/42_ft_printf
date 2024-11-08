@@ -1,7 +1,13 @@
 ## Ft_printf
 The ft_printf project is a common assignment at 42 coding schools, where you are tasked with creating a simplified version of the C standard library function `printf()`. The goal is to improve your programming skills, particularly in areas like string manipulation, argument parsing, and format specifier handling.
 
-## Project Requirements
+## Table of Contents
+- [Requirements](#Requirements)
+- [Design Suggestions](#DesignSuggestions)
+- [Approach the Project Systematically](#ApproachtheProjectSystematically)
+
+
+## Requirements
 The main requirements for the ft_printf project typically include:
 
 1. Implement the following conversion specifiers: `c`, `s`, `p`, `d`, `i`, `u`, `x`, `X`, `%`.
